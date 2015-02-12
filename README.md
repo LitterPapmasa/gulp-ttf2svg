@@ -1,5 +1,5 @@
 <h1>gulp-ttf2svg </h1>
-<h2>gulp. Convert fonts ttf to svg. </h2>
+<h2>Gulp. Convert fonts ttf to svg. </h2>
 <p>
   before using you have to install ttf2svg 
   <code>
