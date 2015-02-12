@@ -7,10 +7,8 @@
     #npm install --save-dev ttf2svg
   <code>
 </p>
-<p>
-insted of 'assets/fonts/' you have to set your source fonts folder
-insted of 'build/fonts/' you have to set your destination fonts folder
-</p>
+<p>insted of 'assets/fonts/' you have to set your source fonts folder </p>
+<p>insted of 'build/fonts/' you have to set your destination fonts folder</p>
 <pre>
 <code>
 var gulp = require('gulp'),
